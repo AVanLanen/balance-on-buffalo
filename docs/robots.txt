@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://avanlanen.github.io/balance-on-buffalo/sitemap.xml
