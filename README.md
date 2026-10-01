@@ -9,6 +9,7 @@ This repository contains the complete static website in `docs/`: 165 content rou
 - Edit page content in `docs/<page>/index.html`; the homepage is `docs/index.html`.
 - Shared styles and interactions are in `docs/site.css` and `docs/site.js`.
 - Assets are in `docs/assets/`.
+- Full-size source images are retained without re-encoding in `docs/assets/originals/`. Page images use high-quality responsive WebP versions; the photo viewer opens the saved full-size source.
 - Internal paths start with `/balance-on-buffalo/` for GitHub project Pages hosting.
 - Commit and push to `main` to update the published website.
 
